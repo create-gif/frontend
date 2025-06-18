@@ -13,7 +13,7 @@
 - Editable bio section  
 
 ## Demo/Preview
-
+### In case of any issue, refer to link below; it has preview with code
 [Click here to view demo](https://codesandbox.io/p/sandbox/inspiring-dew-9g2sgs)
 
 ## Setup & Build Instructions
