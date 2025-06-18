@@ -1,25 +1,26 @@
-# frontend
-##
-Project Overview
-###
--This project include use of React 
--making a login/sign-up page with local storage 
--and a editable profile.
-##
-Features Implemented
-###
--local storage
--toggle between dark/light mode in profile page(based on js)
--editable bio
-##
-Demo/Preview
-[https://codesandbox.io/p/sandbox/inspiring-dew-9g2sgs]()
-##
-Setup & Build Instructions
-###
--the code is already tested
-##
-Any Known Issues or Future Work
-###
--would like to include features like forgot password
--add photo icon on profile
+# Frontend
+
+## Project Overview
+
+- This project includes the use of React  
+- Implements a login/sign-up page with local storage  
+- Includes an editable profile section  
+
+## Features Implemented
+
+- Local storage for user credentials  
+- Toggle between dark/light mode on the profile page (using JavaScript)  
+- Editable bio section  
+
+## Demo/Preview
+
+[Click here to view demo](https://codesandbox.io/p/sandbox/inspiring-dew-9g2sgs)
+
+## Setup & Build Instructions
+
+- The code is already tested and ready to run  
+
+## Any Known Issues or Future Work
+
+- Would like to include features like "Forgot Password"  
+- Add a photo icon on the profile page  
